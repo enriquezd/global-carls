@@ -2,7 +2,7 @@
 add_spaces.py
 February 2021
 
-A python script to iterate through every cell in a given row of strings in a csv file, replacing the string with a version such that
+A python script to iterate through every cell in a given column of strings in a csv file, replacing the string with a version such that
 every capital letter -- with the expection of the first -- has a space before it. (i.e, 'GlobalCarls' would become 'Global Carls')
 
 Usage: input a csv file name and the name of the column in the csv you'd like to add spaces to. (Order specific)
